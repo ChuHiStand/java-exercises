@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ds-and-algorithms/ds-and-algorithms.iml" filepath="$PROJECT_DIR$/ds-and-algorithms/ds-and-algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/ds-and-algorithms/intersectionAlgorithm/intersectionAlgorithm.iml" filepath="$PROJECT_DIR$/ds-and-algorithms/intersectionAlgorithm/intersectionAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-and-algorithms/quick-sort/quick-sort.iml" filepath="$PROJECT_DIR$/ds-and-algorithms/quick-sort/quick-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/code-wars/square-every-digit/square-every-digit.iml" filepath="$PROJECT_DIR$/code-wars/square-every-digit/square-every-digit.iml" />
     </modules>
   </component>
