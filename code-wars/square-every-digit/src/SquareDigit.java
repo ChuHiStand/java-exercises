@@ -8,7 +8,7 @@ public class SquareDigit {
         char[] strArray = ("" + n).toCharArray();
         for (int i = 0; i < strArray.length; i++) {
             int stringToNum = Integer.parseInt(String.valueOf(strArray[i]));
-            stringResult = stringResult + (stringToNum * stringToNum);
+            stringResult += (stringToNum * stringToNum);
         }
         n = Integer.parseInt(stringResult);
         return n;
